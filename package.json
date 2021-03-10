@@ -1,0 +1,17 @@
+{
+  "name": "node-str",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "debug": "^4.3.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
